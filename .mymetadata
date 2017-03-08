@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="Framwork"
+  id="myeclipse.1477966899313"
+  context-root="/Framwork"
+  j2ee-spec="5.0"
+  archive="Framwork.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
